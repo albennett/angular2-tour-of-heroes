@@ -1,3 +1,7 @@
 node_modules/
 
 typings/
+
+app/main.js.map
+app/app.component.js
+app/app.component.js.map
