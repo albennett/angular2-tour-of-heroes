@@ -15,3 +15,10 @@ app/mock-heroes.js
 app/mock-heroes.js.map
 app/hero.service.js
 app/hero.service.js.map
+
+app/heroes.component.js
+app/heroes.component.js.map
+
+app/dashboard.component.js
+app/dashboard.component.js.map
+
