@@ -18,3 +18,5 @@ export class HeroDetailComponent {
   @Input()
   hero: Hero;
 }
+  // constructor(private _heroService: HeroService) { }
+
